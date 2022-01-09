@@ -9,6 +9,7 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Screenshot](#screenshot)
 - [Questions](#questions)
     - [GitHub](#github)
     - [Email](#email)
