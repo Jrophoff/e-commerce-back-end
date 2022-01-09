@@ -9,8 +9,6 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributors](#contributors)
-- [Link](#link)
 - [Questions](#questions)
     - [GitHub](#github)
     - [Email](#email)
@@ -22,16 +20,18 @@
 
 ## Installation
 
-#### Enter npm install into the comand line.
+#### type npm install into the command line.
 
 ## Usage
 
-#### This back end is not hooked up to anything. You can do api calls through Insomnia or similar program.
+#### This back end appplication is not hooked up. You can test API endpoints through Insomnia or similar program. Please view the following walkthrough video:
+
+https://watch.screencastify.com/v/LTfZ8CBGI6dgcMYO75es
 
 
 ## Screenshot
 
-
+![image](https://user-images.githubusercontent.com/90431294/148701663-e6f5c0d0-01ea-49a8-9256-5336f4a59897.png)
 
 ## Questions
 #### If you have further questions please reach out via GitHub or Email.
